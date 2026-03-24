@@ -1,0 +1,16 @@
+{
+  "name": "rate-limiter",
+  "version": "1.0.0",
+  "description": "Token bucket rate limiting middleware",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "keywords": [
+    "rate",
+    "limiter"
+  ],
+  "author": "RyanMoshi",
+  "license": "MIT"
+}
